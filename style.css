@@ -37,7 +37,7 @@ a:hover {
 }
 
 .tex2 {
-  height: 950px;
+  height: 670px;
   width: 800px;
   /* margin-bottom: 250px; */
   padding: 20px;
@@ -68,16 +68,16 @@ a:hover {
   align-items: center;
 }
 .tex3 {
-  font-size: x-large;
+  font-size: large;
 }
 input {
-  font-size: x-large;
+  font-size: large;
   width: 99%;
   height: 35px;
   margin-bottom: 20px;
 }
 textarea {
-  font-size: x-large;
+  font-size: large;
   width: 99%;
 }
 .but1 {
@@ -99,8 +99,8 @@ table, th, td {
 }
 table{
   border: #f0f7f0 solid;
-  margin-top: 100px;
- font-size: x-large;
+  margin-top: 50px;
+ font-size: large;
  text-align: center;
 }
 th, td{
