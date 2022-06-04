@@ -122,3 +122,18 @@ th, td{
   align-items: center;
   justify-content: center;
 }
+.next{
+  /* border: 1px solid black; */
+  padding-top: 10px;
+  display: flex;
+  justify-content: flex-end;
+}
+.next2{
+  height: 40px;
+ width: 90px;
+ border: white;
+ border-radius: 10px;
+ color: white;
+ background-color: blue;
+  
+}
